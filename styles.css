@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    background-color: grey;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    margin-top: 35px;
+}
+
+.title {
+    width: 150px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.screen {
+    width: 250px;
+    height: 40px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.screen-item {
+    display: inline-block;
+}
+
+.num1 {
+    width: 70;
+}
+
+.num2 {
+    width: 70;
+}
